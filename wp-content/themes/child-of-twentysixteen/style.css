@@ -1,0 +1,15 @@
+/*
+Theme name: Custom client x theme
+Description: child theme base on Twenty Sixteen
+Author: Sara Saberi
+Version: 1.0
+Template: twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
+
+
+body{
+
+	color:#B0B!important;
+}
